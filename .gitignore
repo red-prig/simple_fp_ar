@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.lps
+*.ppu
+*.bak
+*.o
+*.a
+*.wcx
+*.wcx64
+link.res
+lib/
+backup/
